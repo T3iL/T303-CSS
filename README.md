@@ -4,6 +4,7 @@
 1. CSS ( selektor, deklaracja )
 2. CSS ( float, display )
 3. CSS ( BOX Model )
+4. CSS ( Img, Background)
 4. CSS ( Colors, Fonts, Icons)
 5. CSS ( pseudoklasy i pseudoelementy )
 ```
