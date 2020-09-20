@@ -13,7 +13,7 @@ https://miroslawzelent.pl/kurs-css/
 
 https://htmlcheatsheet.com/css/
 ### --------Links
-https://github.com/infrmtktl/T303-CSS
+https://github.com/T3iL/T303-CSS
 
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1OqTcjwr_qAdTPO-dThxUOd3ooTTOlzgp?usp=sharing
 
