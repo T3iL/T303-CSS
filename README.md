@@ -15,6 +15,9 @@ https://miroslawzelent.pl/kurs-css/
 https://htmlcheatsheet.com/css/
 
 https://redstapler.co/16-awesome-pure-css-text-effect-you-should-try/
+
+https://codepen.io/takaneichinose/pen/YzqreVp
+
 ### --------Links
 https://github.com/T3iL/T303-CSS
 
