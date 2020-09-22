@@ -13,6 +13,8 @@ https://www.w3schools.com/css/css_intro.asp
 https://miroslawzelent.pl/kurs-css/
 
 https://htmlcheatsheet.com/css/
+
+https://redstapler.co/16-awesome-pure-css-text-effect-you-should-try/
 ### --------Links
 https://github.com/T3iL/T303-CSS
 
