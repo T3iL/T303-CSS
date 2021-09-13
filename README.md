@@ -1,4 +1,4 @@
-# 03 (2020.09.21) - CSS
+# 03 - CSS
 ## -------INFO
 ```
 1. CSS ( selektor, deklaracja )
