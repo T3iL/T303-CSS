@@ -1,4 +1,4 @@
-# 03 - CSS
+# 03 - CSS Layout
 ## -------INFO
 ```
 1. CSS ( selektor, deklaracja )
