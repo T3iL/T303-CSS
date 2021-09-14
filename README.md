@@ -35,8 +35,9 @@ https://cdnjs.com/ | https://fontawesome.com | http://fontello.com/ | https://fo
 ### ---------Stock Img
 https://www.pexels.com/ | https://unsplash.com | https://pixabay.com
 ### ---------Tuts
-https://www.youtube.com/watch?v=1Rs2ND1ryYc
-https://www.youtube.com/watch?v=J35jug1uHzE
-https://www.youtube.com/watch?v=ieTHC78giGQ
+- [How to Center Anything with CSS - Align a Div, Text, and More](https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/)
+- https://www.youtube.com/watch?v=1Rs2ND1ryYc
+- https://www.youtube.com/watch?v=J35jug1uHzE
+- https://www.youtube.com/watch?v=ieTHC78giGQ
 ### ---------License
 [MIT](https://choosealicense.com/licenses/mit/)
