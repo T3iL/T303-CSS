@@ -1,12 +1,13 @@
 # 03 - CSS
 ## -------INFO
 ```
-1. CSS ( selektor, deklaracja )
-2. CSS ( float, display )
-3. CSS ( BOX Model )
-4. CSS ( Img, Background)
-4. CSS ( Colors, Fonts, Icons)
-5. CSS ( pseudoklasy i pseudoelementy )
+1. SEMANTIC HTML5 TAGS (header, nav, article, section, aside, footer)
+2. CSS ( selektor, deklaracja )
+3. CSS ( float, display )
+4. CSS ( BOX Model )
+5. CSS ( Img, Background)
+6. CSS ( Colors, Fonts, Icons)
+7. CSS ( pseudoklasy i pseudoelementy )
 ```
 https://www.w3schools.com/css/css_intro.asp
 
