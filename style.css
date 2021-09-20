@@ -1,0 +1,34 @@
+p{
+	color:grey;
+	text-align:justify;
+}
+#akapit1{
+	text-align:left;
+}
+ul{
+	list-style:none;
+	
+}
+li{
+	border:1px solid grey;
+	display:inline;
+	padding:0.5em;
+}
+.srodek{
+	text-align:center;
+}
+#prawy{
+	text-align:right;
+}
+footer{
+	text-align:center;
+}
+strong{
+	font-size:2em;
+}
+aside{
+	margin:1em;
+	background:grey;
+	padding:2em;
+	float:right;
+}
