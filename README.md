@@ -9,6 +9,14 @@
 6. CSS ( Colors, Fonts, Icons)
 7. CSS ( pseudoklasy i pseudoelementy )
 ```
+
+```
+ZADANIA:
+
+T30301: Przygotuj szachownicę i sformatuj jej wygląd przy pomocy CSS. Zastosuj znaki specjalne unicode jako figury.
+
+T30302: Przygotuj rebus z zastosowaniem znaków specjalnych unicode lub biblioteki fontów. 
+```
 https://www.w3schools.com/css/css_intro.asp
 
 https://miroslawzelent.pl/kurs-css/
@@ -25,6 +33,8 @@ https://github.com/T3iL/T303-CSS
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1OqTcjwr_qAdTPO-dThxUOd3ooTTOlzgp?usp=sharing
 
 https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+
+https://pl.wikipedia.org/wiki/Symbole_szachowe_w_Unikodzie
 
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
 ### --------Repositiories
